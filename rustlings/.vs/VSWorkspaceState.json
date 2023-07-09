@@ -2,13 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\exercises",
-    "\\exercises\\functions",
-    "\\exercises\\if",
+    "\\exercises\\error_handling",
+    "\\exercises\\generics",
     "\\exercises\\intro",
+    "\\exercises\\options",
     "\\exercises\\primitive_types",
+    "\\exercises\\traits",
     "\\exercises\\variables",
     "\\src"
   ],
-  "SelectedNode": "\\exercises\\primitive_types\\primitive_types6.rs",
+  "SelectedNode": "\\exercises\\traits\\traits5.rs",
   "PreviewInSolutionExplorer": false
 }
